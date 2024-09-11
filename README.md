@@ -35,6 +35,9 @@ The goal of this project is to use the **Universal Sentence Encoder (USE)** to t
 ## Data Visualization
 The visualization shows the distribution of movie review data in a two-dimensional space after the t-SNE method is applied. Each point represents an embedded text vector, and similar reviews are expected to cluster together. The points are color-coded based on the sentiment (positive or negative) of the review, providing insight into the distribution of sentiment in the dataset.
 
+![screenshot](https://github.com/user-attachments/assets/5d36a9fb-b82a-4a7a-84ff-999e3563a418)
+
+
 ## Conclusions
 - The **Universal Sentence Encoder (USE)** efficiently transforms each text into a high-dimensional numeric representation (embedding) that captures semantic information.
 - The **t-SNE** method successfully reduces the high-dimensional embeddings to a two-dimensional space while preserving the local structure of the data, enabling the visualization of clusters and patterns.
