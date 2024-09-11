@@ -9,7 +9,6 @@ This project focuses on the visualization of movie reviews using data from the S
 - [Code Explanation](#code-explanation)
 - [Data Visualization](#data-visualization)
 - [Conclusions](#conclusions)
-- [How to Use](#how-to-use)
 - [Requirements](#requirements)
 
 ## Objective
